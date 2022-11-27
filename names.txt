@@ -1,14 +1,92 @@
-Notes
+Micro image 
 
-Fix these
+Street figher names
+
+ryu
+ken
+chunli
+guile
+blanka
+akuma
+dhalsim
+ehonda
+sagat
+cammy
+thawk
+ehonda
+feilong
+rmika
+dan
+deejay
+gouken
 
 
 
-Free score
-
-user nicholas removed (actioned)
-mysql disabled (actioned)
 
 
-Bash script for useradd from text file
-for i in $(cat username.txt); do sudo useradd $i; echo "user $i added successfully!"; echo $i:$i"123" |chpasswd; echo "Password changed"; done
+Legend of Zelda Characters
+Link
+Zelda
+Daruk
+Mipha
+Revali
+Urbosa
+Impa
+Greyson
+Rhondson
+Hetsu
+Pelison
+Teba
+Sidon
+Yunobo
+Riju
+Bolson
+Kass
+Muzu
+Robbie
+
+Kohga
+Cotera
+Beedle
+
+
+
+Mario characters
+mario
+luigi
+bowser
+yoshi
+peach
+toad
+wario
+daisy
+boo
+kamek
+bowserjr
+pauline
+boo
+shyguy
+goomba
+thwomp
+
+Pokemon list
+eevee
+charizard
+mewtwo
+bulbasaur
+charmander
+squirtle
+lucario
+snorlax
+blastoise
+umbreon
+gyarados
+jugglypuff
+flygon
+raichu
+flareon
+jolteon
+vaporeon
+espeon
+arceus
+ditto
