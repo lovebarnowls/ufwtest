@@ -8,11 +8,11 @@ if got clone doesn't work, require apt install.
 sudo -i
 apt-get update
 apt install git
-git clone https://github.com/lovebarnowls/userremove.git
+git clone https://github.com/lovebarnowls/nanouserremove.git
 continue with below instructions
 
 
-cd userremove
+cd nanouserremove
 
 sudo chmod a+x *.sh
 
