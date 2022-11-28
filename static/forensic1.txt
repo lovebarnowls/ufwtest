@@ -1,3 +1,7 @@
-This is a practice image for adding, removing, and modifying users.
-Most of the practice image will involve removing users.
-There is no forensics question for this image.
+Alpha uses the MD5 hash of his callsign (alpha) as his password.
+Give Alpha his password
+
+ANSWER: <Type answer here>
+
+
+Note: There must be a single space between the colon and the beginning of your answer. There may be no spaces in your answer.  If your answer requires spaces, please use the underscore "_" in place of the space.  Do not include the carets (< >) in your answer.
