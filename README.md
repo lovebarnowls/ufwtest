@@ -8,11 +8,11 @@ if got clone doesn't work, require apt install.
 sudo -i
 apt-get update
 apt install git
-git clone https://github.com/lovebarnowls/microuserremove.git
+git clone https://github.com/lovebarnowls/forensic1.git
 continue with below instructions
 
 
-cd microuserremove
+cd forensic1
 
 sudo chmod a+x *.sh
 
