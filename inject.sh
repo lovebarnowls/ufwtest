@@ -1,25 +1,18 @@
 #!/bin/bash
 
-sudo useradd bsod
-sudo useradd excel
-sudo useradd powerpoint
-sudo useradd linux
-sudo useradd outlook
-sudo useradd onenote
-sudo useradd acrobat
-sudo useradd photoshop
-sudo useradd nortonantivirus
-sudo useradd vlcplayer
-sudo useradd googlechrome
-sudo useradd steam
-sudo useradd firefox
-sudo useradd audacity
-sudo useradd siri
-sudo useradd alexa
-sudo useradd garageband
-sudo useradd keynote
-sudo passwd -d bsod
-sudo usermod -aG sudo bsod
-sudo usermod -aG sudo linux
-sudo chown linux /etc/passwd
-
+sudo useradd alpha
+sudo useradd beta
+sudo useradd gamma
+sudo mkdir /home/alpha /home/ubuntu
+sudo mkdir /home/alpha/Desktop /home/ubuntu/Desktop
+sudo mk
+sudo echo 'thisisnotavirus' > /home/alpha/Desktop/notavirus.sh
+sudo mkdir -p /home/beta/desktop/dontlookinhere /home/ubuntu/Desktop
+sudo echo 'totallynotavirus' > /home/beta/desktop/dontlookinhere/totallynotavirus.py
+sudo echo 'i_love_fried_chicken' > /home/beta/desktop/dontlookinhere/openthisfile.txt
+sudo echo 'who owns this file' > /home/beta/desktop/whoownsthis.txt
+sudo chown gamma /home/beta/desktop/whoownsthis.txt
+sudo mkdir -p /home/gamma/desktop/lookinhere /home/ubuntu/Desktop
+sudo echo 'canyouseeme' > /home/gamma/desktop/lookinhere/hidden.txt
+sudo mv /home/gamma/desktop/lookinhere/hidden.txt /home/gamma/desktop/lookinhere/.hidden.txt
+sudo fallocate -l 103 /home/gamma/desktop/103.txt
