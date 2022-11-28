@@ -3,9 +3,7 @@
 sudo useradd alpha
 sudo useradd beta
 sudo useradd gamma
-sudo mkdir /home/alpha /home/ubuntu
-sudo mkdir /home/alpha/Desktop /home/ubuntu/Desktop
-sudo mk
+sudo mkdir -p /home/alpha/Desktop 
 sudo echo 'thisisnotavirus' > /home/alpha/Desktop/notavirus.sh
 sudo mkdir -p /home/beta/desktop/dontlookinhere /home/ubuntu/Desktop
 sudo echo 'totallynotavirus' > /home/beta/desktop/dontlookinhere/totallynotavirus.py
