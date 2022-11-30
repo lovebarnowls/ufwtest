@@ -1,18 +1,22 @@
 
 ## Customisation for Cybertaipan
 
+ForensicA Image for Cybertaipan practice.
+Only has 8 Forensic Questions involving crytography (Files forensic1.txt to forensic8.txt)
+Forensic9.txt contains answers
+
+
 ```
 cd ~
 
 if got clone doesn't work, require apt install.
-sudo -i
-apt-get update
-apt install git
-git clone https://github.com/lovebarnowls/forensic1.git
+sudo apt-get update
+sudo apt install git
+sudo git clone https://github.com/lovebarnowls/forensic1.git
 continue with below instructions
 
 
-cd forensic1
+cd forensica
 
 sudo chmod a+x *.sh
 
