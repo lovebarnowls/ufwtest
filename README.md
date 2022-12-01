@@ -12,7 +12,7 @@ cd ~
 if got clone doesn't work, require apt install.
 sudo apt-get update
 sudo apt install git
-sudo git clone https://github.com/lovebarnowls/forensic1.git
+sudo git clone https://github.com/lovebarnowls/forensica.git
 continue with below instructions
 
 
