@@ -1,5 +1,6 @@
-Alpha uses the MD5 hash of his callsign (alpha) as his password.
-Give Alpha his password
+The only user on this computer, Occam, uses an MD5 hash of his favourite law for his banking password.
+His favourite law is 'lawofparsimony'.
+Provide the MD5 hash below.
 
 ANSWER: <Type answer here>
 
