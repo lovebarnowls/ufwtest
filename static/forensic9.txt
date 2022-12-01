@@ -1,25 +1,25 @@
 Answers
 
-1
-2c1743a391305fbf367df8e4f069f9f9
+Q1
+cdf58f163af02a764b318005c48cadec
 
-2
-AHAAYQBzAHQAYQAgAGMAYQByAGIAbwBuAGEAcgBh
+Q2
+novacula Occami
 
-3
-notavirus.sh
+Q3
+whyisthisguytalkingaboutoccam
 
-4 
-/home/beta/desktop/dontlookinhere
+Q4
+91534cfb067cc05f9837766ffb74e935
 
-5
-i_love_fried_chicken
+Q5
+whenyouhaveeliminatedallpossibilities
 
-6 
-gamma
+Q6
+whateverremainsnomatterhowimpossible
 
-7 
-canyouseeme
+Q7
+mustbethetruth
 
-8 
-103.txt
+Q8
+youmadeittotheend
