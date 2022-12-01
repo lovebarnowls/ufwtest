@@ -1,16 +1,32 @@
 #!/bin/bash
 
-sudo useradd alpha
-sudo useradd beta
-sudo useradd gamma
-sudo mkdir -p /home/alpha/Desktop 
-sudo echo 'thisisnotavirus' > /home/alpha/Desktop/notavirus.sh
-sudo mkdir -p /home/beta/desktop/dontlookinhere /home/ubuntu/Desktop
-sudo echo 'totallynotavirus' > /home/beta/desktop/dontlookinhere/totallynotavirus.py
-sudo echo 'i_love_fried_chicken' > /home/beta/desktop/dontlookinhere/openthisfile.txt
-sudo echo 'who owns this file' > /home/beta/desktop/whoownsthis.txt
-sudo chown gamma /home/beta/desktop/whoownsthis.txt
-sudo mkdir -p /home/gamma/desktop/lookinhere /home/ubuntu/Desktop
-sudo echo 'canyouseeme' > /home/gamma/desktop/lookinhere/hidden.txt
-sudo mv /home/gamma/desktop/lookinhere/hidden.txt /home/gamma/desktop/lookinhere/.hidden.txt
-sudo fallocate -l 103 /home/gamma/desktop/103.txt
+sudo useradd occamrazor
+
+sudo mkdir -p /home/occamrazor/Desktop/dir1/dir2/dir3/dir4
+
+#MD5 hash Q1
+sudo echo 'lawofparsimony' > /home/occamrazor/Desktop/dir1/q1.txt
+
+#base64 decrypt Q2
+sudo echo 'novacula Occami' > /home/occamrazor/Desktop/dir1/q2.txt
+
+#Binary Q3
+sudo echo 'whyisthisguytalkingaboutoccam' > /home/occamrazor/Desktop/dir1/dir2/q3.txt
+
+#MD5 + base64 Q4
+sudo echo 'howaboutauthorconandoyle' > /home/occamrazor/Desktop/dir1/dir2/q4.txt
+
+#reverse MD5 Q5
+sudo echo 'whenyouhaveeliminatedallpossibilities' > /home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
+
+#Morse Q6
+sudo echo 'whateverremainsnomatterhowimpossible' > /home/occamrazor/Desktop/dir1/dir2/dir3/q6.txt
+
+# Hidden file to decode Q7
+sudo echo 'mustbethetruth' > /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/q7.txt
+sudo mv /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/q7.txt /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/.q7.txt
+
+#cat with spaces in file name to MD5
+sudo touch the\ end.txt
+
+
