@@ -1,5 +1,6 @@
-Beta's uses a base64 encryption of his favourite food (pasta carbonara) as his password.
-Give Beta his password.
+Occam regularly forgets his my.gov.au secret phrase, so he has written the following in his notebook.
+bm92YWN1bGEgT2NjYW1p (base64)
+Give Occam his secret phrase.
 
 
 ANSWER: <Type answer here>
