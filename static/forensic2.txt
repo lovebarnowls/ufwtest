@@ -1,5 +1,5 @@
 Occam regularly forgets his my.gov.au secret phrase, so he has written the following in his notebook.
-bm92YWN1bGEgT2NjYW1p (base64)
+/home/occamrazor/Desktop/dir1/q2.txt (base64)
 Give Occam his secret phrase.
 
 
