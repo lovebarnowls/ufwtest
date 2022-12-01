@@ -1,4 +1,11 @@
-What are the contents of the file 'openthisfile.txt' in the folder /home/beta/desktop/dontlookinhere/?
+By now you know that Occam's computer is the most insecure in the world.
+So Occam has employed a trick to write another message back to his friend.
+The message file is found in:
+/home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
+
+What is the message?
+
+Hint: what are equal signs typical of?
 
 ANSWER: <Type answer here>
 
