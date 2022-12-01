@@ -1,5 +1,7 @@
-Who owns the following file?
-/home/beta/desktop/whoownsthis.txt
+Occam's friend has replied, using a different code.
+/home/occamrazor/Desktop/dir1/dir2/dir3/q6.txt
+
+What is the message?
 
 ANSWER: <Type answer here>
 
