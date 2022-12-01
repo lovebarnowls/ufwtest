@@ -1,6 +1,7 @@
-Alpha has an unauthorized file on his desktop.
-What is the name of this file? 
-Include the file extension in your answer
+Occam's wife has played a prank on Occam and saved a note on his computer in:
+/home/occamrazor/Desktop/dir1/dir2/q3.txt
+
+What is her message?
 
 ANSWER: <Type answer here>
 
