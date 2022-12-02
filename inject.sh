@@ -14,7 +14,7 @@ sudo echo 'bm92YWN1bGEgT2NjYW1p' > /home/occamrazor/Desktop/dir1/q2.txt
 sudo echo '0111011101101000011110010110100101110011011101000110100001101001011100110110011101110101011110010111010001100001011011000110101101101001011011100110011101100001011000100110111101110101011101000110111101100011011000110110000101101101' > /home/occamrazor/Desktop/dir1/dir2/q3.txt
 
 # base64 + SHA256 Q4
-sudo echo 'aG93YWJvdXRhdXRob3Jjb25hbmRveWxl' > /home/occamrazor/Desktop/dir1/dir2/q4.txt
+sudo echo 'aG93YWJvdXRhdXRodXJjb25hbmRveWxl' > /home/occamrazor/Desktop/dir1/dir2/q4.txt
 
 #reverse base64 Q5
 sudo echo '==wcllGdpxWail2cz9GcsxWYkVGdh5WatlGblVmdhhWdvlnblh2d' > /home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
