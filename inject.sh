@@ -16,7 +16,7 @@ sudo echo '011101110110100001111001011010010111001101110100011010000110100101110
 #MD5 + base64 Q4
 sudo echo 'aG93YWJvdXRhdXRob3Jjb25hbmRveWxl' > /home/occamrazor/Desktop/dir1/dir2/q4.txt
 
-#reverse MD5 Q5
+#reverse base64 Q5
 sudo echo '==wcllGdpxWail2cz9GcsxWYkVGdh5WatlGblVmdhhWdvlnblh2d' > /home/occamrazor/Desktop/dir1/dir2/dir3/q5.txt
 
 #Morse Q6
