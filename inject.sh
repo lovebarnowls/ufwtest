@@ -1,6 +1,9 @@
 #!/bin/bash
 
 sudo useradd occamrazor
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
+sudo apt install gedit -y -qq
+sudo echo -e "ubuntu\nubuntu" | passwd ubuntu
 
 sudo mkdir -p /home/occamrazor/Desktop/dir1/dir2/dir3/dir4/dir5
 
