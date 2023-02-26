@@ -15,6 +15,14 @@ parameters = forensic1.txt:cf0306742b69f987338d098e8c66312b553e9d50 forensic2.tx
 description = Ex: forensic9.txt:green (Check forensic9.txt for ANSWER: green)
 msg = Forensic question %PARAMETER% is correct
 
+[23A-UFW:File_no_longer_contains]
+enabled = yes
+tag = Firewall
+pointValue = 5
+parameters = /etc/ufw/ufw.conf:^IPV6=no*
+description = Text you would like removed from file
+msg = Incoming ICMP traffic denied
+
 [01-RemoveMcPoyle:Remove_users]
 enabled = no
 tag = User Management
